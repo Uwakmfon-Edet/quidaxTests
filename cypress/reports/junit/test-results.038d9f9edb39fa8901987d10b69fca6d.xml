@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="209.2610" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-08T10:20:08" tests="0" file="cypress/integration/Miro_testCases/signUp.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Miro SignUp Tests " timestamp="2021-10-08T10:20:08" tests="4" time="209.2610" failures="0">
+    <testcase name="Miro SignUp Tests  should verify user is on the home page" time="74.6230" classname="should verify user is on the home page">
+    </testcase>
+    <testcase name="Miro SignUp Tests  should click on the signup button" time="1.6140" classname="should click on the signup button">
+    </testcase>
+    <testcase name="Miro SignUp Tests  should fill the form details and submit" time="132.2330" classname="should fill the form details and submit">
+    </testcase>
+    <testcase name="Miro SignUp Tests  should send a confirmation token" time="0.7910" classname="should send a confirmation token">
+    </testcase>
+  </testsuite>
+</testsuites>
