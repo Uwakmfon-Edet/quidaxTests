@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="20.6980" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-27T20:18:53" tests="0" file="cypress/integration/quidaxTests_testCases/bootstrapModals.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Input Forms -&gt; Ajax Form" timestamp="2021-10-27T20:18:53" tests="5" time="20.6980" failures="0">
+    <testcase name="Input Forms -&gt; Ajax Form Verify user is on the home page" time="6.9110" classname="Verify user is on the home page">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Clicks Alerts and Modals" time="0.3100" classname="Clicks Alerts and Modals">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Clicks Bootstrap Modals" time="10.9780" classname="Clicks Bootstrap Modals">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Loads single Bootstrap Modal" time="1.1760" classname="Loads single Bootstrap Modal">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Loads multiple Bootstrap Modal" time="1.3230" classname="Loads multiple Bootstrap Modal">
+    </testcase>
+  </testsuite>
+</testsuites>
