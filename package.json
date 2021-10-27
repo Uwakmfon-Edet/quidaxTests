@@ -1,7 +1,7 @@
 {
-  "name": "miro",
+  "name": "QuidaxTests",
   "version": "1.0.0",
-  "description": "Miro take home assignment",
+  "description": "Quidax take home assignment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,7 +13,7 @@
   "author": "Uwakmfon Edet",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^8.5.0",
+    "cypress": "^8.7.0",
     "cypress-multi-reporters": "^1.5.0",
     "mocha-junit-reporter": "^2.0.0"
   }
