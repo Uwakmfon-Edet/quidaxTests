@@ -1,5 +1,5 @@
 -----------------------------------------------------------------
-Miro Take Home Assignment Submitted By: UWAKMFON EDET
+Quidax Take Home Assignment Submitted By: UWAKMFON EDET
 -----------------------------------------------------------------
 
 ------------------------------------------------------------------
@@ -8,9 +8,16 @@ FRAMEWORK EXPLAINED
 -- The framework used is Cypress
 -- A Page Object Model design was adopted so all the page elements are contained
 	in cypress/support/PageObjects
--- The testData is contained in the cypress/fixtures folder
 
+-----------------------------------------------------------------
+INSTALLATION GUIDELINES
+------------------------------------------------------------------
+-- CLONE project from repository
+-- OPEN project folder with an IDE e.g VSCode
+-- Run command in terminal "npm install cypress --save-dev
+-- Run command "npm run cy:open"
+-- Run each test case to execute tests
 ------------------------------------------------------------------
 NOTES
 ------------------------------------------------------------------
--- The email is generated dynamically so the tests does not fail after an email has been previously used	
+-- You must have Node and npm installed on your system	
