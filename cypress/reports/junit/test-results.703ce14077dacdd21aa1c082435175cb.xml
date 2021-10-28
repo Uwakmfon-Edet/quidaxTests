@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="14.7600" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-28T09:56:16" tests="0" file="cypress/integration/quidaxTests_testCases/bootstrapList.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="List Box -&gt; Bootstrap List Box" timestamp="2021-10-28T09:56:16" tests="5" time="14.7600" failures="0">
+    <testcase name="List Box -&gt; Bootstrap List Box Verify user is on the home page" time="7.7740" classname="Verify user is on the home page">
+    </testcase>
+    <testcase name="List Box -&gt; Bootstrap List Box Clicks on List Box" time="0.3050" classname="Clicks on List Box">
+    </testcase>
+    <testcase name="List Box -&gt; Bootstrap List Box Clicks Bootstrap List Box" time="5.3000" classname="Clicks Bootstrap List Box">
+    </testcase>
+    <testcase name="List Box -&gt; Bootstrap List Box Adds List Items" time="0.8000" classname="Adds List Items">
+    </testcase>
+    <testcase name="List Box -&gt; Bootstrap List Box Removes List Items" time="0.5810" classname="Removes List Items">
+    </testcase>
+  </testsuite>
+</testsuites>

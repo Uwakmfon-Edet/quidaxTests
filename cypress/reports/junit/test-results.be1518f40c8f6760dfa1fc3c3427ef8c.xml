@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="14.5910" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-28T09:56:39" tests="0" file="cypress/integration/quidaxTests_testCases/bootstrapModals.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Alerts and Modals -&gt; Bootstrap Modals" timestamp="2021-10-28T09:56:39" tests="5" time="14.5910" failures="0">
+    <testcase name="Alerts and Modals -&gt; Bootstrap Modals Verify user is on the home page" time="6.5380" classname="Verify user is on the home page">
+    </testcase>
+    <testcase name="Alerts and Modals -&gt; Bootstrap Modals Clicks Alerts and Modals" time="0.4200" classname="Clicks Alerts and Modals">
+    </testcase>
+    <testcase name="Alerts and Modals -&gt; Bootstrap Modals Clicks Bootstrap Modals" time="3.7030" classname="Clicks Bootstrap Modals">
+    </testcase>
+    <testcase name="Alerts and Modals -&gt; Bootstrap Modals Loads single Bootstrap Modal" time="1.4290" classname="Loads single Bootstrap Modal">
+    </testcase>
+    <testcase name="Alerts and Modals -&gt; Bootstrap Modals Loads multiple Bootstrap Modal" time="2.5010" classname="Loads multiple Bootstrap Modal">
+    </testcase>
+  </testsuite>
+</testsuites>

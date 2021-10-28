@@ -14,7 +14,7 @@ INSTALLATION GUIDELINES
 ------------------------------------------------------------------
 -- CLONE project from repository
 -- OPEN project folder with an IDE e.g VSCode
--- Run command in terminal "npm install cypress --save-dev
+-- Run command in terminal "npm install cypress --save-dev"
 -- Run command "npm run cy:open"
 -- Run each test case to execute tests
 ------------------------------------------------------------------

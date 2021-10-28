@@ -1,7 +1,7 @@
 import ajaxFormPage from "../../support/PageObjects/ajaxFormPage";
 import bootstrapModalsPage from "../../support/PageObjects/bootstrapModalsPage";
 
-describe("Input Forms -> Ajax Form", function () {
+describe("Alerts and Modals -> Bootstrap Modals", function () {
   it("Verify user is on the home page", function () {
     ajaxFormPage.loadURL();
     ajaxFormPage.verifyLandingPage();

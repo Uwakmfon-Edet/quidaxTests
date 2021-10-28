@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="39.8120" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-28T09:55:24" tests="0" file="cypress/integration/quidaxTests_testCases/ajaxForm.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Input Forms -&gt; Ajax Form" timestamp="2021-10-28T09:55:25" tests="5" time="39.8120" failures="0">
+    <testcase name="Input Forms -&gt; Ajax Form Verify user is on the home page" time="18.6540" classname="Verify user is on the home page">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Click on Input Forms link" time="0.4180" classname="Click on Input Forms link">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Click Ajax Form Submit" time="17.7800" classname="Click Ajax Form Submit">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Fill form details and submit" time="2.0040" classname="Fill form details and submit">
+    </testcase>
+    <testcase name="Input Forms -&gt; Ajax Form Verify form is submitted" time="0.9560" classname="Verify form is submitted">
+    </testcase>
+  </testsuite>
+</testsuites>
